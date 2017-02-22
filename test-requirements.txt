@@ -1,4 +1,5 @@
 git+https://github.com/torotil/celerytest#issue6
+mock
 nose
 pylru
 statsd
